@@ -1,12 +1,12 @@
 import { STARTING_POSITION } from '@/lib/constants/chess';
 
 export default function Page() {
-  const title = 'Onframe Chess';
+  const title = 'Phettaverse Onframe Chess';
 
   return (
     <html>
       <head>
-        <title>Onframe Chess</title>
+        <title>Phettaverse Onframe Chess</title>
         <meta property="og:title" content={title} />
         <meta property="og:image" content="https://onframe-chess.vercel.app/static/og/home.png" />
         <meta name="fc:frame" content="vNext" />
